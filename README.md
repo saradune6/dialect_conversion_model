@@ -1,4 +1,3 @@
-***READ ME***
 
 I have Pushed The model on the HUggingFace https://huggingface.co/Sara5115/dialect_conversion_model
 
